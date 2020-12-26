@@ -5,5 +5,3 @@ services:
     build:
       context: ./
       
-    volumes:
-      - ./ssl:/etc/ssl
